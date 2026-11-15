@@ -1,0 +1,18 @@
+{
+  "name": "Dạo Phố Cổ",
+  "short_name": "Phố Cổ",
+  "description": "Game mô phỏng đời sống phố cổ Hà Nội: đi làm thêm, ăn phở, uống cà phê trứng, dạo khắp các quận.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#22180f",
+  "theme_color": "#2a1a12",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
