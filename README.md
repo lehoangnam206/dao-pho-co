@@ -1,6 +1,6 @@
 # Dạo Phố Cổ
 
-Game mô phỏng đời sống phố cổ Hà Nội: dạo phố, làm thêm ở quán phở, quán cà phê, đi xe máy, thăm Văn Miếu, Hồ Gươm.
+Game mô phỏng đời sống phố cổ Hà Nội: dạo phố, làm thêm ở quán phở, quán cà phê, đi xe máy, thăm Văn Miếu, Hồ Gươm, câu cá bãi sông Hồng, làm nông trại ở Làng Rau Bãi Giữa.
 
 Chơi ngay: https://lehoangnam206.github.io/dao-pho-co/
 
